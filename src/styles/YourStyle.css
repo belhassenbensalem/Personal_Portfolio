@@ -1,0 +1,7 @@
+.tilt {
+    transition: transform 0.3s ease; /* Smooth transition for tilt */
+}
+
+.tilt:hover {
+    transform: translateY(-5px); /* Move up on hover */
+}
