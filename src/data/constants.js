@@ -25,7 +25,7 @@ export const Bio = {
     "I am a dedicated IoT and embedded systems student, frontend developer, and graphic designer, always eager to take on new challenges and pursue self-development. With a blend of technical expertise and creativity, I bring ideas to life through smart solutions, intuitive interfaces, and visually engaging designs, constantly pushing my boundaries to make a meaningful impact in the world of technology and design.",
     github: "https://github.com/belhassenbensalem",
     resume:
-      "https://drive.google.com/file/d/1pNhwY-V07iegml5iCcyv8XGPncVQQKpj/view?usp=sharing",
+      "https://drive.google.com/file/d/11O-SmXw-ywPqlEFm3jD2WNG1ha8p9hy3/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/belhassen-ben-salem-793643176/",
   };
   
